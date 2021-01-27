@@ -1,2 +1,2 @@
-# The-Ninja-of-multiplication
+# The Ninja of multiplication
 A serious game designed for learning multiplication.
