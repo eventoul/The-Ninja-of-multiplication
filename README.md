@@ -6,4 +6,4 @@ The purpose of the game is to learning multiplication from 1 to 10. The **target
 
 #### The language of the game is in greek.
 
-![Start Screen]()
+![Start Screen](https://github.com/VagVent/The-Ninja-of-multiplication/blob/add-unity-project/Assets/Sprites/startscreen.png)
