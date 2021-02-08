@@ -1,5 +1,5 @@
 # The Ninja of multiplication
-A serious game designed for learning multiplication. This game was developed with **Unity**.
+A serious game designed for learning multiplication. This game was developed with **Unity** (2019.3.14f1).
 
 ## Purpose of the game
 The purpose of the game is to learning multiplication from 1 to 10. The **target group** of the game is the students of the second grade of elementary school.
