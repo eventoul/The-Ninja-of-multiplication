@@ -143,6 +143,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -151,9 +153,9 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
-    aniso: -1
-    mipBias: -100
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -174,9 +176,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1068,6 +1073,47 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      00-60_18: 364410339521942495
+      00-60_37: -694725347163753274
+      00-60_33: -6833686275249904894
+      00-60_24: -3706336356881601207
+      00-60_34: -3396680225926942422
+      00-60_25: -1409526214505971053
+      00-60_39: 6720877513519350134
+      00-60_6: -6146628023768539237
+      00-60_9: -2050648128945300415
+      00-60_0: 7914801100607750929
+      00-60_27: 6748022754027725623
+      00-60_11: -3263427800569085935
+      00-60_31: 2479319766377605330
+      00-60_3: -452861522538108685
+      00-60_10: -7825362159395395281
+      00-60_1: 8189755478383493733
+      00-60_21: -6591552084248737963
+      00-60_32: -4112349583236017010
+      00-60_20: 4863986919297858436
+      00-60_2: 5934385453493224982
+      00-60_38: 24020358116780505
+      00-60_14: 8745060588829544330
+      00-60_4: 1118394397490553403
+      00-60_17: 2627623832024012833
+      00-60_28: -2463931026988092481
+      00-60_7: 3534544618546206916
+      00-60_22: 3887584310106710903
+      00-60_29: 8082805548133974015
+      00-60_30: 1828918364287869280
+      00-60_5: -9125893023532471364
+      00-60_12: -5602287994127129634
+      00-60_26: -942227916431603115
+      00-60_36: 132383094272252327
+      00-60_19: -2042664550932350361
+      00-60_8: 7545400004252843298
+      00-60_15: 8909533768638574477
+      00-60_16: 2871931847515452105
+      00-60_23: -9161250058598338100
+      00-60_13: -8177330831109728504
+      00-60_35: 1705349213521969519
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
